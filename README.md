@@ -13,11 +13,11 @@ Daher ist meine Diablo 3 PHP API derzeit im Betastadium und hier noch nicht verf
 Funktionen
 ==========
 
-  Komplette Karriere aller Helden zum jeweiligen Battlenet-Account (BattleTag Name + ID notwendig)
-  Komplette Profildaten des jeweiligen Diablo 3 Character
-  Profildaten
-  Stats
-  Kills
-  Items inkl. Grafiken
-  Aktuelle Questreihe
-  uvm.
+- Komplette Karriere aller Helden zum jeweiligen Battlenet-Account (BattleTag Name + ID notwendig)
+- Komplette Profildaten des jeweiligen Diablo 3 Character
+- Profildaten
+- Stats
+- Kills
+- Items inkl. Grafiken
+- Aktuelle Questreihe
+- uvm.
